@@ -1,1 +1,1 @@
-tudo sobre a pratica do swing se encontra aqui
+tudo sobre a pratica do Java Desktop com Swing se encontra aqui
